@@ -1,8 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle:
+subtitle: null
+published: true
 ---
 
-I recently started a PhD in machine/deep learning at the [Institut of Bioinformatics](http://www.bioinf.jku.at/) of the Johannes Kepler University in Linz, Austria in the team of Sepp Hochreiter.
-Previously I worked at the Institute of Water Management, Hydrology and Hydraulic Engineering at the BOKU University in Vienna, as a research assistant. I did my Master in environmental engineering ant the topic of my Master thesis was the development of a software as part of a semi-automatic monitoring system for fish migration in fish passes. The thesis can be found [here](http://permalink.obvsg.at/bok/AC13359496) (in German only). In my time as research assistant at the BOKU university I mostly worked on machine learning applications in the field of hydrology and environmental sciences.
+I am currently a machine learning engineer. 
+
+Previously I worked at FactSet Research Systems Inc. New York Office where I focused on building automated machine learning tools to classify millions of public and private companies, performimg Big Data validation using Spark on databricks and AWS, building data ETL pipelines as API services.
+
+For my education, I have obtained a [Master of Data Science](https://cds.nyu.edu) at Courant Institute of Mathematical Sciences of New York University. Prior to that, I earned two bachelors degree (Mathematics and Economics) from Iowa State University. I also have two minors in Computer Science and Statistics.
+
+
