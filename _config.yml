@@ -17,7 +17,7 @@ baseurl: ""
 title: Welcome to my playground
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: write about myself, the things I studied, and my projects
 
 # --- Navigation bar options --- #
 
@@ -67,7 +67,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
+  rss: false
   facebook: false
   email: true
   twitter: true
